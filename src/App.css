@@ -1,0 +1,26 @@
+.navbar-style {
+  background-color: #ffce6c;
+  height: 60px;
+}
+
+.nav-names {
+  margin: 0 30px;
+}
+
+.style-nav-link {
+  margin-left: 25px;
+}
+
+.nav-name-style {
+  cursor: pointer;
+}
+
+.nav-icon {
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.nav-badge {
+  margin-right: 25px;
+  cursor: pointer;
+}
